@@ -1,0 +1,10 @@
+.emojis-container{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.emoji-button{
+    background: transparent;
+    border-width:0px;
+}

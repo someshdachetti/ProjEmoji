@@ -1,0 +1,14 @@
+.win-or-loose-{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:18px;
+}
+.restart{
+    background:  #ffce27;
+    height:36px;
+    width:79px;
+    border-radius: 11px;
+    border-width:0px;
+}
