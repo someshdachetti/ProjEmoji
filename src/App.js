@@ -83,26 +83,3 @@ const App = () =>{
 }
 export default App
 
-/*
-.emojiGame-container{
-    background-image:linear-gradient(to right , #6a59ff,#fbc7d4);
-    height:109vh;
-    width:102vw;
-}
-.emoji-container{
-    display:flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-}
-.each-emoji-container{
-    background-image:linear-gradient(to right ,#9796f0,#fbc7d4);
-    height:109px;
-    width:102px;
-    margin:10px;
-    border-radius: 22px;
-    list-style-type: none;
-}
-
-*/
