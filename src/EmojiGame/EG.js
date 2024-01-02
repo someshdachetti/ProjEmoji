@@ -31,6 +31,7 @@ class EmojiGame extends Component {
 
     if (isEmojiPresentClickedEmoji){
       this.setState({isGameInProgress :false})
+      this.finishTheEmojiGame(emojisList.length)
     }else{
       if (emojisList.length-1 ===lengthOfEachEmoji){
         this.finishTheEmojiGame(emojisList.length)
